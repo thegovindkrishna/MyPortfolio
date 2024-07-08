@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">thegovindkrishna.tech</a>
+  <a href="https://thegovindkrishna.vercel.app/" target="_blank">thegovindkrishna.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Homepage.png" />
@@ -29,7 +29,7 @@
 You can fork this repo to modify and make changes of your own. 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">thegovindkrishna.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://thegovindkrishna.vercel.app/" target="_blank">thegovindkrishna.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -71,4 +71,4 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://buymeacoffee.com/thegovindkw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
